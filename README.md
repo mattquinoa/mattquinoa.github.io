@@ -1,2 +1,2 @@
-https://mattquinoa.github.io/ITS365/index.htm
+https://mattquinoa.github.io/index.htm
 
